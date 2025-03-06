@@ -6,6 +6,9 @@
 
 
 ## Objetivo
-Desenvolver um diagrama de UML qu represente a integração das classe Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+Desenvolver um diagrama de UML que represente a integração das classe Reprodutor Musical, Aparelho Telefônico e Navegador na Internet com a classe principal CelularIphone.
 
 Foi representado no diagrama três Interfaces que serão implemantadas na classe CelularIphone:
+
+
+![DioIphone](https://github.com/user-attachments/assets/47311edd-e9f1-4ba5-8ad2-00ccd5d13e83)
